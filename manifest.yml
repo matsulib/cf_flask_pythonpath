@@ -1,0 +1,6 @@
+---
+applications:
+- memory: 256M
+  buildpack: https://github.com/cloudfoundry/python-buildpack.git#v1.6.2
+#  env:
+#    PYTHONPATH: /home/vcap/app/libs:$PYTHONPATH
