@@ -1,5 +1,4 @@
-from flask import Flask, request
-import subprocess
+from flask import Flask
 
 import utils
 
